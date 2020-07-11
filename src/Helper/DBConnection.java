@@ -11,7 +11,7 @@ public class DBConnection {
 	public Connection connDb() {
 		try {
 			this.c = DriverManager
-					.getConnection("jdbc:mysql://localhost:3306/hospital?user=root&password=Traeh180290.");
+					.getConnection("jdbc:mysql://localhost:3306/hospital?user=********&password=***********");
 			return c;
 		} catch (Exception e) {
 			e.printStackTrace();
