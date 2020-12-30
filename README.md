@@ -11,3 +11,5 @@ Doktor mesai saatleri ve randevu düzenleme işlemleri...<br />
 ![bashekim doktor islemleri](https://github.com/sercel23/Hospital-Automation/blob/master/4.PNG)
 ![bashekim klinik islemleri](https://github.com/sercel23/Hospital-Automation/blob/master/5.PNG)
 ![doktor mesai islemleri](https://github.com/sercel23/Hospital-Automation/blob/master/6.PNG)
+https://www.youtube.com/channel/UCQKEJxT5iiHCWQqT68gOCOg
+
